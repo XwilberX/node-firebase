@@ -8,7 +8,7 @@ Para iniciar ejecuta el siguiente comando estando en tu consola dentro de la car
 
 `npm install`
 
-![](/home/infrabyte/Documentos/projects/firebase1/docs/Captura realizada el 2020-01-20 12.43.53.png)
+![](/home/infrabyte/Documentos/projects/firebase1/docs/Captura realizada el 2020-01-20 12.43.53.png) 
 
 # Recursos
 
