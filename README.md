@@ -2,7 +2,7 @@
 
 ##### Requisitos
 
-1. Tener instalado node y npm(manejado de paquete de node)
+1. Tener instalado node y npm(manejador de paquete de node)
 
 Para iniciar ejecuta el siguiente comando estando en tu consola dentro de la carpeta:
 
