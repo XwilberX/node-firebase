@@ -8,7 +8,9 @@ Para iniciar ejecuta el siguiente comando estando en tu consola dentro de la car
 
 `npm install`
 
+
 ![Captura](image.png "imagen") 
+
 
 # Recursos
 
