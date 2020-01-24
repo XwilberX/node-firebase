@@ -6,9 +6,9 @@
 
 Para iniciar ejecuta el siguiente comando estando en tu consola dentro de la carpeta:
 ```
-`npm install'
+`npm install`
 Para ejecutar la app es :
-`npm run dev'
+`npm run dev`
 ```
 
 
