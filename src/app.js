@@ -30,5 +30,5 @@ app.use(express.static(path.join(__dirname, 'public')));//definiendo carpeta pub
 
 
 module.exports = app; //exportando app con sus configuracion para poder ser usado donde se requiera checar el archivo index.js
-//en esta mismo nivel de directorio
+//en esta mismo nivel de directorio BIEN
 
